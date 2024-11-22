@@ -1,0 +1,67 @@
+[theme]
+# # Primary accent color for interactive elements.
+# primaryColor = "#d33682"
+
+# # Background color for the main content area.
+# backgroundColor = "#002b36"
+
+# # Background color used for the sidebar and most interactive widgets.
+# secondaryBackgroundColor = "#586e75"
+
+# # Color used for almost all text.
+# textColor = "#fff"
+
+# ------------------------------------------
+# # Primary accent color for interactive elements.
+# primaryColor = "#cb4b16"  # A warm, vibrant orange-red for better contrast with the dark theme.
+
+# # Background color for the main content area.
+# backgroundColor = "#00212b"  # Slightly less stark than the current deep blue-green for reduced eye strain.
+
+# # Background color used for the sidebar and most interactive widgets.
+# secondaryBackgroundColor = "#073642"  # A subtler, more harmonious dark teal-gray tone.
+
+# # Color used for almost all text.
+# textColor = "#eee8d5"  # A softer off-white for a more natural, less harsh text contrast.
+
+# ----------------------------------------------
+
+# # Primary accent color for interactive elements.
+# primaryColor = "#8c6239"  # A rich, earthy brown reminiscent of natural wood or soil.
+
+# # Background color for the main content area.
+# backgroundColor = "#3b3f36"  # A deep olive-green, creating a calm and natural foundation.
+
+# # Background color used for the sidebar and most interactive widgets.
+# secondaryBackgroundColor = "#5a6852"  # A muted sage green that complements the main background.
+
+# # Color used for almost all text.
+# textColor = "#f4f1e0"  # A soft, warm ivory for a natural, parchment-like feel.
+
+
+# ------------------------------------------------------------
+# # Primary accent color for interactive elements.
+# primaryColor = "#b08968"  # A warm, creamy caramel-brown for a rich, inviting accent.
+
+# # Background color for the main content area.
+# backgroundColor = "#2f2a25"  # A dark coffee-brown for depth and a cozy atmosphere.
+
+# # Background color used for the sidebar and most interactive widgets.
+# secondaryBackgroundColor = "#3c362f"  # A muted, earthy taupe for slight contrast with the main background.
+
+# # Color used for almost all text.
+# textColor = "#e8ddc3"  # A soft cream color for smooth readability against the darker backgrounds.
+
+# ----------------------------------------------
+
+# Primary accent color for interactive elements
+primaryColor = "#9B8474"  # A sophisticated taupe-gray that maintains warmth while appearing more professional
+
+# Background color for the main content area
+backgroundColor = "#2A2522"  # Deep espresso brown for a refined dark base
+
+# Background color for sidebar and widgets
+secondaryBackgroundColor = "#353029"  # Rich mocha for subtle depth
+
+# Color used for text
+textColor = "#E6E0D4"  # Warm ivory for enhanced readability
