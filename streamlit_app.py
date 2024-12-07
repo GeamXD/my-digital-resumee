@@ -141,17 +141,32 @@ st.write(
 
 
 # --- Projects & Accomplishments ---
-PROJECTS = {
+st.write('\n')
+st.subheader(":material/build: Projects & Accomplishments")
+st.write("---")
+
+AI_PROJECTS = {
     "Dermatology Medical Case Search Using ChromaDB - search dermatology cases using text, image, or audio queries for research and clinical support": "https://huggingface.co/spaces/geamxd/Dermatology-Case",
     "DermaSeek - AI-powered dermatology case search engine that enables users to explore cases through text, image, and speech queries, enhancing medical education, research, and healthcare": "https://huggingface.co/spaces/geamxd/DermaSeek",
     # " Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
     # "MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
 }
+
+DS_PROJECTS = {
+    "Dermatology Medical Case Search Using ChromaDB - search dermatology cases using text, image, or audio queries for research and clinical support": "https://huggingface.co/spaces/geamxd/Dermatology-Case",
+    "DermaSeek - AI-powered dermatology case search engine that enables users to explore cases through text, image, and speech queries, enhancing medical education, research, and healthcare": "https://huggingface.co/spaces/geamxd/DermaSeek",
+    # " Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
+    # "MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
+}
+st.markdwon("#### **AI Apps/ML Deployment**")
+for project, link in AI_PROJECTS.items():
+    st.write(f"- :material/trophy:[{project}]({link})")
+
 st.write('\n')
-st.subheader(":material/build: Projects & Accomplishments")
-st.write("---")
-for project, link in PROJECTS.items():
-    st.write(f":material/trophy:[{project}]({link})")
+st.write('\n')
+st.markdwon("#### **Case Studies/Analysis**")
+for project, link in DS_PROJECTS.items():
+    st.write(f"- :material/trophy:[{project}]({link})")
 
 
 
