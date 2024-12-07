@@ -32,8 +32,16 @@ SOCIAL_MEDIA = {
 }
 
 # Set Page Config
-st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
+st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON, initial_sidebar_state='expanded')
 
+# Set SideBar
+with st.sidebar:
+    st.write(':material/home: [Home](#musa-godwin)')
+    st.write(':material/today: [Experience](#today-experience)')
+    st.write(':material/construction: [Skills](#construction-skills)')
+    st.write(':material/work: [Work History](#work-work-history)')
+    st.write(':material/build: [Projects & Accomplishments](#build-projects-accomplishments)')
+    st.write(':material/contact_page: [Contact Me](#contact-page-contact-me)')
 
 # --- LOAD CSS, PDF & PROFIL PIC ---
 with open(css_file) as f:
