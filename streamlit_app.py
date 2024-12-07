@@ -158,13 +158,13 @@ DS_PROJECTS = {
     # " Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
     # "MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
 }
-st.markdwon("#### **AI Apps/ML Deployment**")
+st.markdown("#### **AI Apps/ML Deployment**")
 for project, link in AI_PROJECTS.items():
     st.write(f"- :material/trophy:[{project}]({link})")
 
 st.write('\n')
 st.write('\n')
-st.markdwon("#### **Case Studies/Analysis**")
+st.markdown("#### **Case Studies/Analysis**")
 for project, link in DS_PROJECTS.items():
     st.write(f"- :material/trophy:[{project}]({link})")
 
