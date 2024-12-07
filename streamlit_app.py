@@ -153,8 +153,9 @@ AI_PROJECTS = {
 }
 
 DS_PROJECTS = {
-    "Dermatology Medical Case Search Using ChromaDB - search dermatology cases using text, image, or audio queries for research and clinical support": "https://huggingface.co/spaces/geamxd/Dermatology-Case",
-    "DermaSeek - AI-powered dermatology case search engine that enables users to explore cases through text, image, and speech queries, enhancing medical education, research, and healthcare": "https://huggingface.co/spaces/geamxd/DermaSeek",
+    "Blockbusters and Beasts: A Data-Driven Adventure through Dinosaurs and Movies":"https://www.datacamp.com/datalab/w/94735bdb-0b3d-47e6-82d0-07df4622a379/report"
+    # "Dermatology Medical Case Search Using ChromaDB - search dermatology cases using text, image, or audio queries for research and clinical support": "https://huggingface.co/spaces/geamxd/Dermatology-Case",
+    # "DermaSeek - AI-powered dermatology case search engine that enables users to explore cases through text, image, and speech queries, enhancing medical education, research, and healthcare": "https://huggingface.co/spaces/geamxd/DermaSeek",
     # " Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
     # "MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
 }
